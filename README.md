@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot - desktop.jpg)
-![](./screenshot - mobile.jpg)
+![](./screenshot - mobile.png)
+![](./screenshot - mobile.png)
 
 ### Links
 
 - Solution URL: https://github.com/RSmith484/Results-Summary-Component.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://rsmith484.github.io/Results-Summary-Component/
 
 ## My process
 
